@@ -1,39 +1,56 @@
+<figure align="center">
+  <img src="Assets/Img/html.svg" width="700" alt="HTML Learning Repository Banner">
+</figure>
+
 # 🌟 HTML Learning Repository
 
-Welcome to the **HTML Learning Repository**! This repository is a collection of my personal notes and code examples as I learn and explore HTML. It’s designed to help beginners understand the fundamentals of HTML through clear explanations and practical examples. Whether you're just starting out or need a quick reference, this repository has got you covered!
+Welcome to the **HTML Learning Repository**.  
+This repository contains my **personal notes, experiments, and code examples** as I systematically learn and explore **HTML fundamentals**.
+
+The goal is clarity over noise:
+- ✅ Beginner-friendly explanations  
+- ✅ Practical, runnable examples  
+- ✅ Clean structure for long-term reference  
+
+Whether you’re starting from zero or revisiting core concepts, this repo is designed to be **fast to read and easy to reason about**.
 
 ---
 
 ## 🎯 What’s Inside?
 
-This repository focuses on **learning HTML** through **code examples** and **important details & notes**. Here’s what you’ll find:
+This repository focuses on **learning HTML through hands-on examples** and **important conceptual notes**.
 
 ### 📂 Topics Covered
+
 1. **Basic HTML Structure**  
-   - Learn the foundation of every HTML document: `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`.
+   - Core document anatomy: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
+
 2. **HTML Elements and Tags**  
-   - Explore common tags like `<h1>` to `<h6>`, `<p>`, `<a>`, `<img>`, `<div>`, and `<span>`.
+   - Common building blocks:  
+     `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<div>`, `<span>`
+
 3. **Lists**  
-   - Master ordered lists (`<ol>`), unordered lists (`<ul>`), and definition lists (`<dl>`).
+   - Ordered (`<ol>`), unordered (`<ul>`), and definition lists (`<dl>`)
+
 4. **Forms and Input Elements**  
-   - Build interactive forms using `<form>`, `<input>`, `<textarea>`, `<select>`, and `<button>`.
+   - Interactive UI with `<form>`, `<input>`, `<textarea>`, `<select>`, `<button>`
+
 5. **Tables**  
-   - Create structured tables with `<table>`, `<tr>`, `<th>`, and `<td>`.
+   - Structured data using `<table>`, `<tr>`, `<th>`, `<td>`
+
 6. **Semantic HTML**  
-   - Use semantic elements like `<header>`, `<footer>`, `<section>`, `<article>`, and `<nav>` for better accessibility and SEO.
+   - Meaningful structure with `<header>`, `<footer>`, `<section>`, `<article>`, `<nav>`
+
 7. **Multimedia**  
-   - Embed images, audio, and video using `<img>`, `<audio>`, and `<video>`.
+   - Images, audio, and video via `<img>`, `<audio>`, `<video>`
+
 8. **HTML Attributes**  
-   - Understand global attributes like `class`, `id`, `style`, and `data-*`.
+   - Global and custom attributes: `class`, `id`, `style`, `data-*`
+
 9. **HTML5 Features**  
-   - Dive into modern features like `<canvas>`, `<svg>`, `<details>`, and `<summary>`.
+   - Modern elements: `<canvas>`, `<svg>`, `<details>`, `<summary>`
+
 10. **Accessibility**  
-    - Learn how to write accessible HTML with ARIA roles, `alt` attributes, and semantic elements.
+    - Accessible markup using semantic HTML, `alt` text, and ARIA roles
 
 ---
-
-## 🚀 How to Use This Repository
-
-### 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/UmairShakoor/HTML.git
