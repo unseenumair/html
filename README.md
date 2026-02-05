@@ -1,8 +1,4 @@
-<figure align="center">
-  <img src="Assets/Img/html.svg" width="700" alt="HTML Learning Repository Banner">
-</figure>
-
-# 🌟 HTML Learning Repository
+# <img src="Assets/Img/html.svg" width="36" alt="HTML Logo" /> HTML Learning Repository
 
 Welcome to the **HTML Learning Repository**.  
 This repository contains my **personal notes, experiments, and code examples** as I systematically learn and explore **HTML fundamentals**.
